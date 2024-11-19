@@ -1,0 +1,38 @@
+
+body{
+    background-image: linear-gradient(
+        to top right,
+        #24252a 33%, 
+        #000080);
+    background-attachment: fixed;
+}
+
+/* .nickname{ */
+    /* background-color: rgb(192,192,192) */
+/* } */
+
+.container{
+    color: white;
+    font-style: italic;
+}
+
+.nickname label{
+    color: white;
+}
+
+.evento1 h2, p{
+    color: white;
+}
+.evento2 h2, p{
+    color: white;
+}
+
+.meucard{
+    width: 16rem;
+}
+
+.caixa{
+    width: 16rem;
+}
+
+
